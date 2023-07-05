@@ -20,7 +20,7 @@ public class Velocidad {
             
     }
     public int calculaVelocidad(int t, int v){
-        return t*v;
+        //AQUI VA EL CODIGO DE TAREA
     }
 
     
