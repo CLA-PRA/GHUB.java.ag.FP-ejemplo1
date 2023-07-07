@@ -15,7 +15,7 @@ class AppTest {
     void prueba1(){
         Velocidad v = new Velocidad();
         
-        assertEquals(v.calculaVelocidad(5, 7),35);
+        assertTrue(v.calculaVelocidad(5, 7)==35);
         
     }
     
